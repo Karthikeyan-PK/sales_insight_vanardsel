@@ -20,7 +20,8 @@ The 4 pillars of a high quality Power BI solution:
 
 1. To load data into Power BI and build a dashboard with various tools
 2. To use Measures and Columns in Power BI to provide a better understanding of data into a visual
-3. Use of DAX and analyzed various reports such as PL Report, Manufacture Report, Product Report etc.
+3. Use of DAX and analyzed various reports such as PL Report, Manufacture Report, Product Report etc for business understanding in data driven decision making
+
 
 I'd like to express my gratitude to Abdelkarim M. Mahmoud sir for this great project. Please feel free to comment on the areas where I can improve, as I'd love to hear from everyone.
 
